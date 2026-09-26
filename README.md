@@ -42,3 +42,4 @@ Also:
 - **Spanish text:** have a native Spanish speaker on your team review `es/index.html`.
 
 When you change text, make the same change in both `index.html` and `es/index.html`.
+
